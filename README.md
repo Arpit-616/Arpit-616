@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Arpit-616/Readme/blob/main/Gemini_Generated_Image_hks31xhks31xhks3_kaze_remove_watermark.png" alt="Arpit Srivastava — AI/ML Engineer & Python Developer" width="70%">
+<img src="https://github.com/Arpit-616/Arpit-616/blob/main/Gemini_Generated_Image_hks31xhks31xhks3_kaze_remove_watermark.png" alt="Arpit Srivastava — AI/ML Engineer & Python Developer" width="70%">
 </p>
 
 <p align="center">
